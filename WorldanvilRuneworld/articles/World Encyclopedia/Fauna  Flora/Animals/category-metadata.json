@@ -1,0 +1,17 @@
+{
+    "id": "e07c9ed8-9bb2-4647-bb38-9eef5a7c9a7a",
+    "title": "World Encyclopedia",
+    "state": "public",
+    "views": null,
+    "description": "Your Setting",
+    "excerpt": null,
+    "icon": null,
+    "position": 300,
+    "url": "http://www.worldanvil.com/w/runeworld-kinshiki/c/world-encyclopedia-category",
+    "world": {
+        "id": "1f915c82-45cd-4a90-9ede-cd4807581ee6",
+        "title": "Runeworld",
+        "slug": "runeworld-kinshiki",
+        "url": "http://www.worldanvil.com/w/runeworld-kinshiki"
+    }
+}

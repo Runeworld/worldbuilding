@@ -1,0 +1,59 @@
+{
+    "id": "28dda8d2-4236-4e09-8a1e-300621750972",
+    "title": "Rune-energy",
+    "template": "law",
+    "is_wip": true,
+    "is_draft": true,
+    "state": "public",
+    "wordcount": 42,
+    "creation_date": {
+        "date": "2021-11-11 02:41:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "update_date": {
+        "date": "2021-11-22 00:22:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "publication_date": {
+        "date": "2021-11-11 03:00:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "notification_date": null,
+    "tags": null,
+    "metadata_user": null,
+    "metadata_article": null,
+    "css_classes": null,
+    "css_styles": null,
+    "passcode": null,
+    "url": "http://www.worldanvil.com/w/runeworld-kinshiki/a/rune-energy-law",
+    "world": {
+        "id": "1f915c82-45cd-4a90-9ede-cd4807581ee6",
+        "title": "Runeworld",
+        "slug": "runeworld-kinshiki",
+        "url": "http://www.worldanvil.com/w/runeworld-kinshiki"
+    },
+    "author": {
+        "id": "b11d3fbc-6e8a-45c7-9e3a-66bdc1302b8d",
+        "username": "Kinshiki",
+        "url": "http://www.worldanvil.com/author/Kinshiki"
+    },
+    "content": "[center][b][u]Rune-energy[/u][/b][/center]\n[center]Rune-energy is the predominant fundamental force driving this universe, from which everything else is created. Although countless lives have been spent in pursuit of understanding its on reality ,[/center]",
+    "content_parsed": "<div class=\"paragraph-align-center text-center\"><b><u>Rune-energy</u></b></div>\n<div class=\"paragraph-align-center text-center\">Rune-energy is the predominant fundamental force driving this universe, from which everything else is created. Although countless lives have been spent in pursuit of understanding its on reality ,</div>",
+    "sections": {
+        "displaySidebar": {
+            "title": "",
+            "position": "",
+            "content": true,
+            "content_parsed": "1"
+        },
+        "lawtype": {
+            "title": "",
+            "position": "",
+            "content": "Natural",
+            "content_parsed": "Natural"
+        }
+    }
+}

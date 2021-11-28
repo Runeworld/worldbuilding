@@ -1,0 +1,31 @@
+{
+    "id": "1f915c82-45cd-4a90-9ede-cd4807581ee6",
+    "name": "Runeworld",
+    "subtitle": "World Subtitle",
+    "locale": "en",
+    "description": "A world with two continents known as the new and the old world. The old world is torn by political, religious, ethnic, and ideological conflicts while the new world is holding lost technologies and knowledge from ancient times.\r\nMaster artisans utilize mysterious properties of different materials to craft objects that can manipulate the very building blocks of reality in a process called runecrafting.\r\nAnd an unlikely hero, who does not belong.",
+    "description_parsed": "A world with two continents known as the new and the old world. The old world is torn by political, religious, ethnic, and ideological conflicts while the new world is holding lost technologies and knowledge from ancient times.\nMaster artisans utilize mysterious properties of different materials to craft objects that can manipulate the very building blocks of reality in a process called runecrafting.\nAnd an unlikely hero, who does not belong.",
+    "display_css": null,
+    "display_panel_css": null,
+    "tags": "",
+    "slug": "runeworld-kinshiki",
+    "url": "http://www.worldanvil.com/w/runeworld-kinshiki",
+    "copyright": "GLOBAL COPYRIGHT FOOTER",
+    "world_sidebar_content": "GLOBAL WORLD NAVIGATION SIDEBAR CUSTOM CONTENT",
+    "global_announcement": "GLOBAL ARTICLE ANNOUNCEMENTS BLOCK (SIDEBAR TOP)",
+    "global_header": "GLOBAL WORLD HEADER BLOCK",
+    "global_sidebar_footer": "GLOBAL ARTICLE ADDITIONAL BLOCK (SIDEBAR BOTTOM)",
+    "global_article_introduction": "GLOBAL ARTICLE INTRODUCTION BLOCK",
+    "theme": 13,
+    "genres": [
+        {
+            "id": "4fdf071d-9f52-475b-870d-c6f07c7869b0",
+            "name": "Fantasy, Dark"
+        }
+    ],
+    "author": {
+        "id": "b11d3fbc-6e8a-45c7-9e3a-66bdc1302b8d",
+        "username": "Kinshiki",
+        "url": "http://www.worldanvil.com/author/Kinshiki"
+    }
+}

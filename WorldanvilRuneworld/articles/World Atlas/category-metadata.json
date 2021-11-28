@@ -1,0 +1,17 @@
+{
+    "id": "85024e12-ee25-4422-9cab-7903f284ac0a",
+    "title": "World Atlas",
+    "state": "public",
+    "views": null,
+    "description": "The lands of this world. Mountains, Rivers, Valleys, Cities and Landmarks.",
+    "excerpt": null,
+    "icon": null,
+    "position": 400,
+    "url": "http://www.worldanvil.com/w/runeworld-kinshiki/c/world-atlas-category",
+    "world": {
+        "id": "1f915c82-45cd-4a90-9ede-cd4807581ee6",
+        "title": "Runeworld",
+        "slug": "runeworld-kinshiki",
+        "url": "http://www.worldanvil.com/w/runeworld-kinshiki"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": "5f13b507-ac8e-4269-86bd-acad6c72aebc",
+    "title": "Staging Area",
+    "state": "public",
+    "views": null,
+    "description": "Work in Progress & Competition Articles",
+    "excerpt": null,
+    "icon": null,
+    "position": 100,
+    "url": "http://www.worldanvil.com/w/runeworld-kinshiki/c/staging-area-category",
+    "world": {
+        "id": "1f915c82-45cd-4a90-9ede-cd4807581ee6",
+        "title": "Runeworld",
+        "slug": "runeworld-kinshiki",
+        "url": "http://www.worldanvil.com/w/runeworld-kinshiki"
+    }
+}
