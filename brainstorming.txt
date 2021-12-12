@@ -1,6 +1,24 @@
 General Ideas / Brainstorming
 
 ---- GAMEPLAY / MECHANICS ----
+Old-school RPG with in-depth mechanics but made more accessible for modern audience
 replayability / specialist player characters
+    to have specialist characters a variety of playstyles need to be feasible, for example:
+        good / bad / neutral
+        different combat styles
+        stealth / guns blazing
+        pacifist -> manipulating people into killing for you or avoiding deaths
+            could also be through non-fatal combat -> paralysis, knock-outs, ...
+        solo / party / faction -> politics / economy
+tutorial is optional
 decisions have weight / no save-scumming
 ironman / hardcore
+how do we cater to role-players and min-maxers?
+    character generation choice: background and character questions or direct stat / skill distribution
+    how is it balanced?
+(almost) infinite progression? how to avoid stats becoming meaningless?
+
+long-term vs short-term fatigue?
+    you are tired from sprinting for 5 minutes straight but it's
+    a different kind of fatigue from what you feel after studying for hours
+    or working hard for weeks with little sleep or relaxation
